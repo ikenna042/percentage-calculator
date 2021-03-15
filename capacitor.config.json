@@ -1,0 +1,13 @@
+{
+  "appId": "com.ikenna.percent",
+  "appName": "percent-calc",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
